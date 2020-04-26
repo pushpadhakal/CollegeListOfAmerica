@@ -37,3 +37,33 @@ Values
 --<connectionStrings>
 --    <add name="UniversitiesEntities" connectionString="metadata=res://*/Models.CollegeListModel.csdl|res://*/Models.CollegeListModel.ssdl|res://*/Models.CollegeListModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=PUSHPA-2017\SQLEXPRESS01;initial catalog=Universities;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
 --  </connectionStrings>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#).
