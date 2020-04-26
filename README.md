@@ -1,11 +1,9 @@
 1). This application allows users to view and modify the data. After opening the application, users can edit whatever they like to fix. In addition to that, they can create/add, view details, and delete any of the institutions.
 SQL has the data of institutes.
 
-Please follow the link for the screenshots of the website:
-
+Please follow the link for the screenshots of the website: https://github.com/pushpadhakal/CollegeListOfAmerica/wiki/Screenshots
 
 2). Please follow step (3) and (4) before running this application.
-
 
 3). Please use the following SQL Query to create a database and table.
 
@@ -29,37 +27,6 @@ Values
 ('Alaska Pacific University', '4101 University Dr, Anchorage, AK 99508',9075611266,6),
 ('Ball State University', '2000 University Ave, Muncie, IN 47306',7652891241,8),
 ('Bellarmine University', '2001 Newburg Rd, Louisville, KY 40205-0671',5024528000,10),
-('Boston University', 'One Silber Way, 8th Floor, Boston, MA 02215',6173532200,12),
-('California Southern University', '3330 Harbor Blvd, Costa Mesa, CA 92626',8004772254,16),
-('Colorado Technical University', '4435 N Chestnut Street, Colorado Springs, CO 80907-3812',7195980200,20),
-('Delaware State University', '1200 N. Dupont Highway, Dover, DE 19901',3028576060,22),
-('DeVry University', '1200 East Diehl Road, Naperville, IL 60563',7877530039,24),
-('Eastern Kentucky University', '521 Lancaster Ave, Richmond, KY 40475-3102',8596221000,28),
-('Emory University', '1520 Clifton Rd. NE, Atlanta, GA 30322',4047276123,29),
-('Georgia State University', '33 Gilmer St SE, Atlanta, GA 30302-3083',4046512000,36),
-('Harvard University', 'Massachusetts Hall, Cambridge, MA 02138',6174951000,38),
-('Huntington University', '2303 College Ave, Huntington, IN 46750',2603566000,39),
-('Indiana State University', '200 N 7th St, Terre Haute, IN 47809',8122376311,41),
-('Johns Hopkins University', '3400 N Charles St, Baltimore, MD 21218-2688',4105168000,42),
-('Kingston University', '12100 Imperial Highway, Suite 101, Norwalk, CA 90650',4239681187,44),
-('Liberty University', '1971 University Blvd, Lynchburg, VA 24502',4345822000,45),
-('Manchester University', '604 E. College Ave., North Manchester, IN 46962',2609825000,46),
-('National University', '11255 North Torrey Pines Road, La Jolla, CA 92037-1011',8586428000,23),
-('Ohio State University', '1585 Neil Avenue, Columbus, OH 43210',6142926446,47),
-('Pennsylvania State University', '201 Old Main Building, University Park, PA 16802-1589',8148654700,3),
-('Quinnipiac University', '275 Mount Carmel Ave, Hamden, CT 06518',2035828200,1),
-('Rice University', '6100 S Main, Houston, TX 77005',7133480000,3),
-('Saint Xavier University', '3700 W 103rd St, Chicago, IL 60655',7732983000,25),
-('Transylvania University', '300 N Broadway, Lexington, KY 40508-1797',8592338300,47),
-('Trinity University', 'One Trinity Place, San Antonio, TX 78212-7200',2109997011,40),
-('University of Kentucky', '101 Main Building, Lexington, KY 40506-0032',6062579000,5),
-('University of Louisville', '2301 S 3rd St, Louisville, KY 40292-0001',5028525555,7),
-('Virginia State University', 'One Hayden Street, Petersburg, VA 23806',8045245000,9),
-('Vanderbilt University', '2101 West End Avenue, Nashville, TN 37240',6153227311,11),
-('Western Kentucky University', '1906 College Heights Blvd, Bowling Green, KY 42101-1000',2707450111,17),
-('Washington State University', 'French Administration Building, Pullman, WA 99164-1009',5093353564,13),
-('Xavier University', '3800 Victory Parkway, Cincinnati, OH 45207-1092',5137453000,19),
-('Yale University', '105 Wall Street, New Haven, CT 06520',2034324771,21)
 
 
 4). 
