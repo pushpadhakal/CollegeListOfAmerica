@@ -31,7 +31,8 @@ Values
 
 4). 
  -- I have source=PUSHPA-2017\SQLEXPRESS01 in Web.config file.
- --Go to Web.config file and replace PUSHPA-2017\SQLEXPRESS01 with your sql server name.
- --Example:  connectionString="metadata=res://*/Models.CollegeListModel.csdl|res://*/Models.CollegeListModel.ssdl|res://*/Models.CollegeListModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=PUSHPA-2017\SQLEXPRESS01;initial catalog=Universities;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+ --Go to connectionString in Web.config file and look at the source. All you need to do is replace my sql server name, PUSHPA-2017\SQLEXPRESS01,  with your. This is how it looks like in the file.
+ 
+connectionString="metadata=res://*/Models.CollegeListModel.csdl|res://*/Models.CollegeListModel.ssdl|res://*/Models.CollegeListModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=PUSHPA-2017\SQLEXPRESS01;initial catalog=Universities;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
 
 
